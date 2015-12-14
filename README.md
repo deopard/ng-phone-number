@@ -34,3 +34,8 @@ Use is as an element directive.
 ## Parameters
 ### ng-model (required)
 ngModel is required.
+
+
+license
+=======
+[MIT License](https://github.com/deopard/ng-phone-number/blob/master/LICENSE)
