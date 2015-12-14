@@ -18,7 +18,7 @@ Browser tested with IE9+ and most of the modern browsers.
 Include minified(or unminified) js file in `ng-phone-number/dist` folder to your web project.
 
 ### Add dependency for your application
-Add the ng-phone-number module as a dependancy to your application module.
+Add the ng-phone-number module as a dependency to your application module.
 
 ```js
 var myAppModule = angular.module('MyApp', ['deopard.ngPhoneNumber']);
