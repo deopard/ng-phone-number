@@ -1,0 +1,25 @@
+{
+  "name": "ng-phone-number",
+  "version": "1.0.0",
+  "description": "AngularJS directive to make text inputs take only phone-number-valid characters (number, +, -)",
+  "main": "src/ng-phone-number.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deopard/ng-phone-number.git"
+  },
+  "author": "Tom Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deopard/ng-phone-number/issues"
+  },
+  "homepage": "https://github.com/deopard/ng-phone-number#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-uglify": "^0.11.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

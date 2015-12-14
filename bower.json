@@ -1,0 +1,22 @@
+{
+  "name": "ng-phone-number",
+  "homepage": "https://github.com/deopard/ng-phone-number",
+  "authors": [
+    "Tom Kim <ekagud@gmail.com>"
+  ],
+  "description": "AngularJS directive to make text inputs take only phone-number-valid characters (number, +, -)",
+  "main": "ng-phone-number.js",
+  "moduleType": [],
+  "keywords": [
+    "AngularJS",
+    "Phone"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
