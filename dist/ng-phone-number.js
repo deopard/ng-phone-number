@@ -18,7 +18,7 @@
   function PhoneNumber () {
     var directive = {
       restrict: 'A',
-      required: 'ngModel',
+      require: 'ngModel',
       link: linkFunc
     };
 
