@@ -3,6 +3,9 @@ AngularJS directive to make text inputs take only phone-number-valid characters 
 
 It blocks all of the other characters before they are written(including non-ascii code characters such as Hanguel).
 
+## Demo
+Try the jsfiddle [demo](http://jsfiddle.net/deopard/sv9rr8oj/1/) here.
+
 ## Download
 Download using `bower`
 
